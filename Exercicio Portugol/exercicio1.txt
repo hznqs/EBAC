@@ -1,0 +1,8 @@
+Passo a Passo Acordar
+1 - Está acordado (Sim ou não)
+ se sim :
+   1 - Abra os olhos.
+   2 - Tire a coberta.
+   3 - Levante da cama.
+ se não :
+   O usuário ainda está dormindo.
